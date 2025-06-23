@@ -1,4 +1,4 @@
-# HTML5 - Inputs no HTML
+# HTML5 - Inputs no HTML5
 
 Este é um exercício prático que explora diferentes tipos de **inputs em HTML**. A página apresenta um formulário com diversos campos interativos, permitindo ao usuário preencher informações pessoais, selecionar opções e enviar arquivos.
 
